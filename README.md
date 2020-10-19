@@ -3,8 +3,11 @@ This is the takehome assignment of Eigen Analytics
 @Author: Bernie
 
 SuperUser Info:
+
 UserName: pye3
+
 Password: 8331326078
+
 Email:    pye3@wpi.edu
 
 
