@@ -4,7 +4,7 @@ class JConfig {
 	public $offline_message = '网站正在维护。<br /> 请稍候访问。';
 	public $display_offline_message = '1';
 	public $offline_image = '';
-	public $sitename = 'EigenAssignment';
+	public $sitename = 'Eigen';
 	public $editor = 'tinymce';
 	public $captcha = '0';
 	public $list_limit = '20';
@@ -16,10 +16,10 @@ class JConfig {
 	public $host = '127.0.0.1:3306';
 	public $user = 'root';
 	public $password = '123456789';
-	public $db = 'eigen';
-	public $dbprefix = 'e58e1_';
+	public $db = 'joomla';
+	public $dbprefix = 's03sp_';
 	public $live_site = '';
-	public $secret = 'im3J1rHIpYtUlWmc';
+	public $secret = 'WWt1JD0ad4B0otjL';
 	public $gzip = '0';
 	public $error_reporting = 'default';
 	public $helpurl = 'https://help.joomla.org/proxy?keyref=Help{major}{minor}:{keyref}&lang={langcode}';
@@ -33,7 +33,7 @@ class JConfig {
 	public $mailonline = '1';
 	public $mailer = 'smtp';
 	public $mailfrom = 'ypybernie@gmail.com';
-	public $fromname = 'EigenAssignment';
+	public $fromname = 'Eigen Assignment';
 	public $sendmail = '/usr/sbin/sendmail';
 	public $smtpauth = '1';
 	public $smtpuser = 'ypybernie@gmail.com';
@@ -57,8 +57,8 @@ class JConfig {
 	public $unicodeslugs = '0';
 	public $feed_limit = '10';
 	public $feed_email = 'none';
-	public $log_path = '/Applications/MAMP/htdocs/eigen/administrator/logs';
-	public $tmp_path = '/Applications/MAMP/htdocs/eigen/tmp';
+	public $log_path = '/Applications/MAMP/htdocs/joomla/administrator/logs';
+	public $tmp_path = '/Applications/MAMP/htdocs/joomla/tmp';
 	public $lifetime = '15';
 	public $session_handler = 'database';
 	public $shared_session = '0';
