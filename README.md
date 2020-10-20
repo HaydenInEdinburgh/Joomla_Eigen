@@ -6,10 +6,18 @@ SuperUser Info:
 
 UserName: pye3
 
-Password: 123456789
+Password: 123456
 
 Email:    pye3@wpi.edu
 
+
+Tester User Info:
+
+UserName: tester
+
+Password: 123456
+
+Email: bony960323@gmail.com
 
 Backend Config Email: ypybernie@gmail.com
 
