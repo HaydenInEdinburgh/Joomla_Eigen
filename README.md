@@ -2,7 +2,7 @@
 This is the takehome assignment of Eigen Analytics
 @Author: Bernie
 
-SuperUser Info:
+#### SuperUser Info:
 
 UserName: pye3
 
@@ -11,7 +11,7 @@ Password: 123456
 Email:    pye3@wpi.edu
 
 
-Tester User Info:
+#### Tester User Info:
 
 UserName: tester
 
