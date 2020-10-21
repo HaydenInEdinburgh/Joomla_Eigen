@@ -4,7 +4,7 @@ class JConfig {
 	public $offline_message = '网站正在维护。<br /> 请稍候访问。';
 	public $display_offline_message = '1';
 	public $offline_image = '';
-	public $sitename = 'Eigen';
+	public $sitename = 'EigenAssignment';
 	public $editor = 'tinymce';
 	public $captcha = '0';
 	public $list_limit = '20';
@@ -17,9 +17,9 @@ class JConfig {
 	public $user = 'root';
 	public $password = '123456789';
 	public $db = 'joomla';
-	public $dbprefix = 's03sp_';
+	public $dbprefix = 'nws38_';
 	public $live_site = '';
-	public $secret = 'WWt1JD0ad4B0otjL';
+	public $secret = 'kA4fkfRUQxzjNNUp';
 	public $gzip = '0';
 	public $error_reporting = 'default';
 	public $helpurl = 'https://help.joomla.org/proxy?keyref=Help{major}{minor}:{keyref}&lang={langcode}';
@@ -33,7 +33,7 @@ class JConfig {
 	public $mailonline = '1';
 	public $mailer = 'smtp';
 	public $mailfrom = 'ypybernie@gmail.com';
-	public $fromname = 'Eigen Assignment';
+	public $fromname = 'EigenAssignment';
 	public $sendmail = '/usr/sbin/sendmail';
 	public $smtpauth = '1';
 	public $smtpuser = 'ypybernie@gmail.com';
